@@ -76,10 +76,6 @@ Contributions are welcome! Feel free to:
 - **GitHub**: [@Tushar-RK](https://github.com/Tushar-RK)
 - **Email**: tusharkaranjule123@gmail.com
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 **Important**: This platform is for awareness and connectivity purposes. Always consult medical professionals and authorized blood banks for actual blood donation procedures.
