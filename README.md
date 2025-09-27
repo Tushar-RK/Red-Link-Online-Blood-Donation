@@ -74,7 +74,7 @@ Contributions are welcome! Feel free to:
 
 - **Developer**: Tushar Karanjule
 - **GitHub**: [@Tushar-RK](https://github.com/Tushar-RK)
-- **Email**: mailto:tusharkaranjule123@gmail.com
+- **Email**: tusharkaranjule123@gmail.com
 
 ## 📝 License
 
